@@ -59,7 +59,7 @@ To set up and run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Disease-Prediction-App.git
+git clone (https://github.com/Sunaina12-tech/Disease-Prediction-App)
 cd Disease-Prediction-App
 
 Create a virtual environment (recommended):
